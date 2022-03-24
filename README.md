@@ -1,5 +1,4 @@
 # Analisando Dados com Python - Pandas
-ANALISE DE DADOS l
 <img src="img.png"></img>
 
 Bibliotecas necessária:
