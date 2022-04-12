@@ -5,6 +5,14 @@ Bibliotecas necessária:
 - Pandas
 
 Para instalar a biblioteca:
-- pip install pandas ou pip3 install pandas
 
-RECOMENDADO UTILIZAR ESSES ELEMENTOS NO: Jupyter, Google Colab ou Pycharm!
+  No linux:
+  - >pip install pandas
+
+  No windows:
+  - >pip3 install pandas
+
+RECOMENDADO utilizar esse script: 
+- Jupyter 
+- Google Colab
+- Pycharm!
