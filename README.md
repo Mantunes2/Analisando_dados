@@ -15,4 +15,4 @@ Para instalar a biblioteca:
 RECOMENDADO utilizar esse script: 
 - Jupyter 
 - Google Colab
-- Pycharm!
+- Pycharm
